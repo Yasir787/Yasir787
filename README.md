@@ -57,7 +57,7 @@ Built ML models achieving **92% accuracy** on patient data and optimized **CI/CD
 ---
 
 ## 🎓 Education
-**Arizona State University** — MS in Software Engineering *(Expected Aug 2026)*  
+**Arizona State University** — MS in Software Engineering *(May 2026)*  
 **University of Mumbai** — BE in Information Technology *(2023)*
 
 ---
